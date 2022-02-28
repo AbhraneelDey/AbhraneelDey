@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhraneelDey
+- 👋 Hi, This is Abhraneel Dey
 - 👀 I’m interested in the field of Web Development, Android Development, Blockchain and mainly Cybersecurity.
 - 🌱 I’m currently learning Cybersec and upskilling myself in Ethical Hacking. 
 - 💞️ I’m looking to collaborate with innovative and unique projects to gain, contribute and explore new domains.

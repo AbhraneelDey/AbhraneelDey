@@ -1,6 +1,6 @@
 - 👋 Hi, This is Abhraneel Dey
-- 👀 I’m interested in the field of Web Development, Android Development, Blockchain and mainly Cybersecurity.
-- 🌱 I’m currently learning Cybersec and upskilling myself in Ethical Hacking. 
+- 👀 I’m interested in the field of Cybersecurity, mainly defensive Information Security, and also work along Software Development, Blockchain etc.
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate with innovative and unique projects to gain, contribute and explore new domains.
 - 📫 U can reach me here: abhradey.2311@gmail.com
 
